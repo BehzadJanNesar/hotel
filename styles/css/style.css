@@ -1497,7 +1497,7 @@ html {
       padding: unset;
    }
    .rooms-rate__card {
-      width: 500px;
+      width: 95%;
    }
    .room-rate-container {
       gap: 10px;
