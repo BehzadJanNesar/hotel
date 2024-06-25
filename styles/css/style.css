@@ -1516,9 +1516,10 @@ html {
       padding: 30px;
    }
    .descriptions-user__info {
-      bottom: 43%;
-      right: 15%;
-      padding: 10px 20px;
+      bottom: 57%;
+      right: 20%;
+      padding: 5px 10px;
+      width: 60%;
    }
    .descriptions__information {
       margin-top: 30px;
@@ -1555,6 +1556,9 @@ html {
       left: 20%;
    }
 
+   .descriptions-user__info p {
+      font-size: 13px;
+   }
    .sidebarMenu {
       width: 90%;
    }
