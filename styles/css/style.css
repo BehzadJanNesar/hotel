@@ -1367,7 +1367,7 @@ html {
       justify-content: center;
    }
    .right-section__img {
-      width: 600px;
+      width: 95%;
    }
    .left-section .left-section__h1 {
       font-size: 20px;
@@ -1491,7 +1491,7 @@ html {
 
 @media screen and (max-width: 600px) {
    .right-section__img {
-      width: 500px;
+      width: 95%;
    }
    .section-2 .left-section {
       padding: unset;
